@@ -1,0 +1,8 @@
+.pio/
+.vscode/
+Keil/*
+!*.uvprojx
+*.bin
+*.out
+*.o
+~$*

@@ -1,0 +1,10 @@
+.pio/
+.vscode/
+project/*/
+!*.uvprojx
+*.uvop*
+*.uvgu*
+*.bin
+*.out
+*.o
+~$*

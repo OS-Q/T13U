@@ -1,7 +1,7 @@
 @ ECHO off
 
 
-SET UV4_EXE="D:\Program Files\KeilC51V905\UV4\Uv4.exe"
+SET UV4_EXE="C:\Keil_v5\UV4\Uv4.exe"
 ECHO Using %UV4_EXE%
 
 
